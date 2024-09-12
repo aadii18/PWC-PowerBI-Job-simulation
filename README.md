@@ -5,7 +5,7 @@ At PwC, we work with global organizations, upskilling our 276,000 employees. Our
 
 This virtual experience program consists of 3 tasks:
 
-**Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior.**
+**Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior**
 
 Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative!
 
